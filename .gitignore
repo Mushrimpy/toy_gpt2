@@ -1,0 +1,4 @@
+.venv
+.direnv
+*__pycache____pycache__/
+*colab
